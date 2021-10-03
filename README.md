@@ -6,7 +6,7 @@
 
 <p align="center">I'm a FiveM / Minecraft developer.<br> I also love writing anything code & Game Design.<br></p><br/>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/themdogshow"> <img align="center" src="https://i.imgur.com/pcTXAz3.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<p align = "center"><a href="https://www.patreon.com/themdogshow"> <img align="center" src="https://i.imgur.com/Q4M0Hnw.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
