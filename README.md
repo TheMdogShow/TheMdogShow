@@ -8,13 +8,13 @@
 
 <p align = "center"><a href="https://www.buymeacoffee.com/themdogshow"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
-
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff for Mdog Game.
 - 🌱 I’m currently learning java / Lua.
-- 👯 I’m looking to collaborate on FiveM projects.
-- 🤔 I’m looking for help with React.
+- 👯 I’m looking to collaborate on moew FiveM projects.
+- 🤔 I’m looking for help custom fivem scripts.
 - 💬 Any tech releated or coding questions send me a dm on social media
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
