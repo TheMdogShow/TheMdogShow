@@ -22,8 +22,7 @@
 
 <p align = "center">
  
-[<img src="https://img.shields.io/website?style=for-the-badge&up_message=MAIN&url=https%3A%2F%2Fthemdogshow.com">](https://themdogshow.com/)
-[<img src="https://img.shields.io/website?style=for-the-badge&up_message=Mdog%20Game&url=https%3A%2F%2Fmdoggame.com">](https://mdoggame.com/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://themdogshow.com/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://themdogshow.com/twitter) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.themdogshow.com/instagram)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.themdogshow.com/facebook) 
@@ -41,5 +40,3 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
