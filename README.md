@@ -12,8 +12,8 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff for Mdog Game.
-- 🌱 I’m currently learning java / Lua.
-- 👯 I’m looking to collaborate on moew FiveM projects.
+- 🌱 I’m currently codeing with java | Lua | HTML.
+- 👯 I’m looking to collaborate on more FiveM ESX / QBCore projects.
 - 🤔 I’m looking for help custom fivem scripts.
 - 💬 Any tech releated or coding questions send me a dm on social media
 
