@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a FiveM / Minecraft developer.<br> I also love writing anything code & Game Design.<br></p><br/>
+<p align="center"> I also love writing anything code & Game Design.<br></p><br/>
 
 <p align = "center"><a href="https://www.themdogshow.com/donate"> <img align="center" src="https://i.imgur.com/vQd50Yl.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
