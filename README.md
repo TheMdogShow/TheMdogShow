@@ -28,7 +28,6 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.themdogshow.com/instagram)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.themdogshow.com/facebook) 
 [<img src="https://img.shields.io/discord/422460360084291596?label=DISCORD&style=for-the-badge" />](https://github.com/TheMdogShow) 
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/TheMdogShow)
 
 </p>
 
