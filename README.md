@@ -6,16 +6,15 @@
 
 <p align="center"> I also love writing anything code & Game Design.<br></p><br/>
 
-<p align = "center"><a href="https://www.themdogshow.com/donate"> <img align="center" src="https://i.imgur.com/vQd50Yl.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<p align = "center"><a href="https://www.teammdog.com/donate"> <img align="center" src="https://i.imgur.com/vQd50Yl.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff for Mdog Game.
 - 🌱 I’m currently codeing with java | Lua | HTML.
-- 👯 I’m looking to collaborate on more FiveM ESX / QBCore projects.
-- 🤔 I’m looking for help custom fivem scripts.
-- 💬 Any tech releated or coding questions send me a dm on social media
+- 👯 I’m looking to collaborate on more FiveM QBCore projects.
+- 💬 Any tech releated or coding questions send me a dm
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> Click below to connect with me</h2></summary>
