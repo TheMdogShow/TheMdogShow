@@ -19,5 +19,5 @@
  
 [<img src ="https://img.shields.io/website?style=for-the-badge&up_message=MAIN&url=https%3A%2F%2Fteammdog.com">](https://teammdog.com)
 [<img src ="https://img.shields.io/website?style=for-the-badge&up_message=MDOG%20GAME&url=https%3A%2F%2Fmdoggame.com">](https://mdoggame.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://teammdog.com/twitter) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mdog.link/twitter) 
 [<img src="https://img.shields.io/discord/422460360084291596?label=DISCORD&style=for-the-badge" />](https://github.com/TheMdogShow)
