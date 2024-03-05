@@ -10,8 +10,8 @@
 
 ```lua
 About Me
-     💻:"FiveM Server Developer",
-     🧿:"Discord Bot Developer",
+💻:FiveM Server Developer
+🧿: Discord Bot Developer
 ```
 
 <h1 align="center">
