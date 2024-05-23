@@ -22,4 +22,4 @@ About Me
 
 <h1 align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheMdogShow&theme=dark&border_radius=4.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheMdogShow&theme=blue-green)](https://git.io/streak-stats)
